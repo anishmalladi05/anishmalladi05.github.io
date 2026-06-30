@@ -8,3 +8,6 @@
 <br></br>
 -Code
 <br></br>
+
+
+I used Claude to help me with this, but I coded most of the website. I hope you enjoy!
